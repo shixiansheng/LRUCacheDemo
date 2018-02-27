@@ -1,11 +1,6 @@
 package com.example.lrucachedemo.utils;
 
 import java.security.MessageDigest;
-
-/**
- * Created by 1 on 2017/11/3.
- */
-
 public class MD5Encoder {
     /**
      * Md5Encoder

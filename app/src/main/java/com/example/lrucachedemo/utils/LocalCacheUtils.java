@@ -8,11 +8,6 @@ import android.os.Environment;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-
-/**
- * Created by 1 on 2017/11/3.
- */
-
 /**
  * 三级缓存之本地缓存
  */

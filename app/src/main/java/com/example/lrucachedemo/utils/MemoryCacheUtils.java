@@ -4,10 +4,6 @@ import android.graphics.Bitmap;
 import android.support.v4.util.LruCache;
 import android.util.Log;
 
-/**
- * Created by 1 on 2017/11/3.
- */
-
 public class MemoryCacheUtils {
 
     private LruCache<String, Bitmap> mMemoryCache;

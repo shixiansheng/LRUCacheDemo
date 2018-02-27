@@ -8,11 +8,6 @@ import android.widget.ImageView;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
-
-/**
- * Created by 1 on 2017/11/3.
- */
-
 public class NetCacheUtils {
     private LocalCacheUtils mLocalCacheUtils;
     private MemoryCacheUtils mMemoryCacheUtils;
